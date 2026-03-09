@@ -33,7 +33,6 @@ A modern, interactive web application built with React and Vite to help users le
 git clone https://github.com/raza-zeeshan/music-learning-app.git
 cd music-learning-app
 ```
-
 2. Install dependencies:
 ```bash
 npm install
@@ -43,7 +42,6 @@ npm install
 ```bash
 npm run dev
 ```
-
 The application will be available at `http://localhost:5173`
 
 ## Available Scripts
