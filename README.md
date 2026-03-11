@@ -37,7 +37,6 @@ cd music-learning-app
 ```bash
 npm install
 ```
-
 3. Start the development server:
 ```bash
 npm run dev
@@ -65,7 +64,6 @@ music-learning-app/
 ├── vite.config.js
 └── package.json
 ```
-
 ## Development
 
 This template is configured with:
