@@ -3,7 +3,6 @@
 A modern, interactive web application built with React and Vite to help users learn music theory, practice instruments, and develop their musical skills.
 
 ## Features
-
 - **Interactive Music Theory Lessons** - Learn fundamentals of music theory with interactive exercises
 - **Practice Modules** - Dedicated practice tools for various musical skills
 - **Progress Tracking** - Monitor your learning progress over time
@@ -11,7 +10,6 @@ A modern, interactive web application built with React and Vite to help users le
 - **Fast Development** - Built with Vite for lightning-fast development experience
 
 ## Tech Stack
-
 - **Frontend Framework**: [React](https://react.dev/)
 - **Build Tool**: [Vite](https://vitejs.dev/)
 - **Fast Refresh**: 
