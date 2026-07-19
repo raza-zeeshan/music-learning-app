@@ -64,6 +64,7 @@ music-learning-app/
 ```
 ## Development
 
+
 This template is configured with:
 - **Hot Module Replacement (HMR)** for instant updates during development
 - **ESLint** for code quality and consistency
