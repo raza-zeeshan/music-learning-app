@@ -79,9 +79,7 @@ For a TypeScript version of this template, check out the [Vite React TS template
 
 ## Contributing
 
-
 Contributions are welcome! Please feel free to submit a Pull Request.
-
 
 ## License
 
